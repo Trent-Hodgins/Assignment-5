@@ -31,3 +31,17 @@
   float: right;
   margin-right: 120px;
 }
+
+#area {
+  font-size: 300%;
+  position: fixed;
+  top: 275px;
+  left: 200px;
+}
+
+#cir {
+  font-size: 300%;
+  position: fixed;
+  top: 275px;
+  right: 200px;
+}
