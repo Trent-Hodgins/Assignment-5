@@ -1,4 +1,3 @@
-let answer = 0
 let d = 0
 const quater = 0.25
 let cir = 0
